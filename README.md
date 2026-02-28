@@ -1,3 +1,9 @@
+🚧 This project is currently under active development.
+Upcoming improvements:
+- Dockerization
+- Cloud deployment
+- CI/CD integration
+
 # ML Churn Monitoring API
 
 Production-style machine learning system for customer churn prediction with calibrated classification, threshold optimization, FastAPI deployment, explainability, and data drift monitoring.
